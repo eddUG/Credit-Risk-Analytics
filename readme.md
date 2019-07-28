@@ -9,11 +9,8 @@
 ## Project Summary
 - Brief Summary about the techniques used in the project. For full report check out the [CreditRiskAnalytics Summary](CreditRiskAnalytics_Summary.pdf)
 
-![Project Summary](Images/Summary.PNG)
 - ROC Curve - An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds.
 - Finding the best cufoff point - which maximises the specificity and the sensitivity. This threshold point might not give the highest   prediction in your model, but it wouldn't be biased towards positives or negatives.
-<img src="Images/ROC-log.PNG" alt="ROC Curve" width="600">
-<img src="Images/Cutoff.PNG" alt="Cutoff Curve" width="600">
 
 ## Installation
 The Installation process will get you a copy of the project up and running on your local machine for development and testing purposes
