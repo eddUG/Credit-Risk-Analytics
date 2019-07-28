@@ -7,8 +7,6 @@
 - For new customers we need to decide whether to extend credit or not by analyzing the behaviour of existing customers.
 
 ## Project Summary
-- Brief Summary about the techniques used in the project. For full report check out the [CreditRiskAnalytics Summary](CreditRiskAnalytics_Summary.pdf)
-
 - ROC Curve - An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds.
 - Finding the best cufoff point - which maximises the specificity and the sensitivity. This threshold point might not give the highest   prediction in your model, but it wouldn't be biased towards positives or negatives.
 
@@ -29,8 +27,8 @@ print("Loaded Decision tree model :: ", loaded_model)
 
 ### Prerequisites
 The following list summarizes the packages/softwares used in this project. These are the softwares/packages you neeed to install before executing the project file.
-* Anaconda v – 5.2.0 (py 36_3) 
-* Python v – 3.6.5 
+* Anaconda 
+* Python  
 * Packages (Packages that are not part of anaconda distribution, need to install using pip installer) 
   * [export_graphviz](https://pypi.org/project/graphviz/)  (pip install graphviz)
   * pydot graphviz  (pip install pydot graphviz) 
